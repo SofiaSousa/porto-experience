@@ -1,0 +1,12 @@
+{
+  "name": "porto-experience",
+  "version": "1.0.0",
+  "description": "An ambitious project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "An amazing Dev Team",
+  "license": "ISC",
+  "module": "commonjs"
+}
